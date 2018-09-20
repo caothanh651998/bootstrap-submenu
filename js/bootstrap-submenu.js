@@ -69,7 +69,6 @@
       if (![38, 40].includes(event.keyCode)) {
         return;
       }
-
       // NOTE: Off vertical scrolling
       event.preventDefault();
 
